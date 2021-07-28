@@ -1,0 +1,15 @@
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\StopWatch.exe
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\StopWatch.dll
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\ref\StopWatch.dll
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.dll
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+D:\workspace\fundamentsCSharpBalta.io\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache

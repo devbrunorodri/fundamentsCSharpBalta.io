@@ -11,3 +11,6 @@ Nesta parte do curso pude aprender todos os conceitos fundamentais sobre C#. His
 
 ------
 
+- Calculator
+- StopWatch
+- TextEditor
