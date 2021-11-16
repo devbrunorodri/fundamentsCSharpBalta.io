@@ -1,7 +1,5 @@
-using System;
-using System.Text;
-
-namespace EditorHtml {
+namespace EditorHtml
+{
     public static class Editor
     {
         public static void Show()
