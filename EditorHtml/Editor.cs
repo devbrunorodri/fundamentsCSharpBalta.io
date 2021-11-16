@@ -1,3 +1,6 @@
+using System;
+using System.Text;
+
 namespace EditorHtml
 {
     public static class Editor
